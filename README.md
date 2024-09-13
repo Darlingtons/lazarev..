@@ -8,6 +8,7 @@ This project showcases a digital product design agency website, featuring modern
 - **Smooth Scrolling:** Implemented using Locomotive Scroll for a fluid navigation experience.
 - **GSAP Animations:** Multiple interactive elements and transitions using GSAP, including hover effects and dynamic animations.
 - **Responsive Design:** Fully responsive, optimized for desktop, tablet, and mobile devices.
+- **Interactive Navbar:** The navigation bar includes dynamic hover animations using GSAP, expanding sections and revealing content with smooth transitions.
 
 ## Technologies Used
 - **HTML5, CSS3:** Core structure and design of the website.
